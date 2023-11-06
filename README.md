@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Frank Farzaneh
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- Hi, I’m Azsrs
+- I’m interested in Coding
+-  I’m currently learning Lua and HTML
 - farzanehfrank@icloud.com to shit on me
 
 <!---
