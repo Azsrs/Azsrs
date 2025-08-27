@@ -1,7 +1,5 @@
-- Hi, I’m Azsrs
-- I’m interested in Coding
--  I’m currently learning Lua and HTML
-- azsrsmail@gmail.com to shit on me
+- benim är farlig
+
 
 <!---
 FronkDanMaktige/FronkDanMaktige is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
