@@ -1,6 +1,4 @@
-- Learning C#
-- Projects probably from school
-- I guard the hood
+- jag vaktar orten
 
 <!---
 FronkDanMaktige/FronkDanMaktige is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
